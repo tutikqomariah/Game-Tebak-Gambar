@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tebak Logo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#ffff00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bg">#222222</color>
+    <color name="color">#dddd00</color>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_selsai">Selsai</string>
+    <string name="title_activity_splash2">Splash2</string>
+    <string name="title_activity_kategori">Kategori</string>
+    <string name="title_activity_pilih">Pilih</string>
+    <string name="title_activity_play2">Play2</string>
+    <string name="title_activity_play3">Play3</string>
+    <string name="title_activity_gameover2">Gameover2</string>
+
+</resources>
